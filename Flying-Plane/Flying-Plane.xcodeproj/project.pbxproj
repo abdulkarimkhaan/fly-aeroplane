@@ -202,13 +202,16 @@
 				TargetAttributes = {
 					323D575322A9C94A00648270 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1100;
 					};
 					323D576D22A9C94C00648270 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1100;
 						TestTargetID = 323D575322A9C94A00648270;
 					};
 					323D577822A9C94C00648270 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1100;
 						TestTargetID = 323D575322A9C94A00648270;
 					};
 				};
@@ -453,7 +456,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "se.abdulkarim.Flying-Plane";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -471,7 +474,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "se.abdulkarim.Flying-Plane";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -490,7 +493,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "se.abdulkarim.Flying-PlaneTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Flying-Plane.app/Flying-Plane";
 			};
@@ -510,7 +513,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "se.abdulkarim.Flying-PlaneTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Flying-Plane.app/Flying-Plane";
 			};
@@ -529,7 +532,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "se.abdulkarim.Flying-PlaneUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "Flying-Plane";
 			};
@@ -548,7 +551,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "se.abdulkarim.Flying-PlaneUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "Flying-Plane";
 			};
